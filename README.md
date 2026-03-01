@@ -1,99 +1,67 @@
-<!-- Profile Picture Section - Line 3 pe apni photo ka URL daalna -->
-<img src="https://i.imgur.com/YOUR-PHOTO.jpg" align="right" width="300" style="border-radius: 50%; border: 5px solid #2d79c7; box-shadow: 0 0 20px rgba(45, 121, 199, 0.5);" alt="Muhammad Yaseen">
+# <img src="https://media.giphy.com/media/hvRJCLzzXPPfszwXV8/giphy.gif" width="30px"> I'm Muhammad Khan (Yaseen)
 
-# 👨‍💻 Muhammad Yaseen
-## 🚀 Frontend Developer
+<p align="right">
+  <img src="https://avatars.githubusercontent.com/u/YOUR_GITHUB_USER_ID?v=4" width="180px" height="180px" style="border-radius: 50%; border: 4px solid #00C6FF; box-shadow: 0 0 20px #00C6FF;" alt="Muhammad Khan (Yaseen)" />
+</p>
 
-📧 muhammadyaseenas801@gmail.com | 📍 Pakistan  
-💼 Open to Opportunities | 🔗 [Portfolio](#)
-
----
-
-## 🎯 **Skills Overview**
-
-### 📊 **Skill Proficiency**
-| Skill | Level | Progress Bar | Badge |
-|-------|-------|--------------|-------|
-| **HTML5** | 95% | ██████████░░ | ![HTML](https://img.shields.io/badge/HTML-95%25-E34F26?logo=html5&logoColor=white) |
-| **CSS3** | 90% | █████████░░░ | ![CSS](https://img.shields.io/badge/CSS-90%25-1572B6?logo=css3&logoColor=white) |
-| **JavaScript** | 85% | ████████░░░░ | ![JS](https://img.shields.io/badge/JS-85%25-F7DF1E?logo=javascript&logoColor=black) |
-| **Bootstrap** | 88% | ████████░░░░ | ![Bootstrap](https://img.shields.io/badge/Bootstrap-88%25-7952B3?logo=bootstrap&logoColor=white) |
-| **Git/GitHub** | 80% | ███████░░░░░ | ![Git](https://img.shields.io/badge/Git-80%25-F05032?logo=git&logoColor=white) |
-| **React** | 70% | ██████░░░░░░ | ![React](https://img.shields.io/badge/React-70%25-61DAFB?logo=react&logoColor=black) |
-
----
-
-## 🛠️ **Interactive Skills Dashboard**
-
-### **Hover Effects wale Buttons:**
 <div align="center">
-  
-[![HTML5](https://custom-icon-badges.demolab.com/badge/HTML5-95%25-E34F26?logo=html5&logoColor=white&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://custom-icon-badges.demolab.com/badge/CSS3-90%25-1572B6?logo=css3&logoColor=white&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://custom-icon-badges.demolab.com/badge/JavaScript-85%25-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Bootstrap](https://custom-icon-badges.demolab.com/badge/Bootstrap-88%25-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge)](https://getbootstrap.com/)
-[![React](https://custom-icon-badges.demolab.com/badge/React-70%25-61DAFB?logo=react&logoColor=black&style=for-the-badge)](https://reactjs.org/)
-[![Git](https://custom-icon-badges.demolab.com/badge/Git-80%25-F05032?logo=git&logoColor=white&style=for-the-badge)](https://git-scm.com/)
-[![GitHub](https://custom-icon-badges.demolab.com/badge/GitHub-85%25-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com)
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;WordPress+Specialist;Founder+of+Future+Stars+Academy;AI+Automation+Expert" alt="Typing SVG" />
 </div>
 
 ---
 
-## 📈 **GitHub Analytics**
+### 🚀 What I Bring to the Table
+I help businesses and individuals build **high-performance, SEO-friendly, and visually stunning** digital products. From Ghotki to the global market, I bridge the gap between ideas and reality.
 
+- 🛠️ **Custom Web Apps:** Built with React & Modern CSS for speed and scalability.
+- 🌐 **WordPress Excellence:** Professional business sites and blogs with custom designs.
+- 🤖 **AI-Driven Solutions:** Integrating AI to automate tasks (Check out my channel: **AI se Baatein**).
+- 🎓 **Proven Leadership:** Founder of **Future Stars Academy**, managing teams and students.
+
+---
+
+### 💻 Tech Stack
 <div align="center">
-  
-| | |
-|:---:|:---:|
-| ![Stats](https://github-readme-stats.vercel.app/api?username=muhammadyaseenas801-cmyk&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=2d79c7&icon_color=2d79c7&text_color=ffffff) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhammadyaseenas801-cmyk&theme=dark&hide_border=true&background=0d1117&ring=2d79c7&fire=2d79c7&currStreakLabel=2d79c7) |
-| ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadyaseenas801-cmyk&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=2d79c7&text_color=ffffff) | ![Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadyaseenas801-cmyk&theme=github_dark) |
-
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/WordPress-%2321759b.svg?style=for-the-badge&logo=WordPress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </div>
 
 ---
 
-## 🏆 **Achievements**
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=muhammadyaseenas801-cmyk&theme=onedark&no-frame=true&row=2&column=4)
-
----
-
-## 📂 **Featured Projects**
-
-### 🔥 **Project 1: E-commerce Website**
-- **Tech:** HTML, CSS, JavaScript, Bootstrap
-- **Features:** Responsive Design, Cart System, Product Filtering
-- **[View Code](#)**
-
-### 🎨 **Project 2: Portfolio Template**
-- **Tech:** HTML, CSS, JavaScript
-- **Features:** Modern UI, Smooth Animations, Mobile Friendly
-- **[View Code](#)**
-
-### 📊 **Project 3: Admin Dashboard**
-- **Tech:** React, CSS, JavaScript
-- **Features:** Charts, Data Tables, User Management
-- **[View Code](#)**
-
----
-
-## 📞 **Contact Me**
-
+### 📈 Professional Snapshot
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
-[![Email](https://img.shields.io/badge/Email-Send-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadyaseenas801@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=internet-explorer&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muhammadyaseenas801-cmyk)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180px" />
 </div>
 
 ---
 
-## 📊 **Weekly Coding Activity**
-```text
-HTML/CSS      ████████████████░░░░░ 80%
-JavaScript    █████████████░░░░░░░░ 65%
-Bootstrap     ████████████░░░░░░░░░ 60%
-React         ███████░░░░░░░░░░░░░░ 35%
-Git           █████████░░░░░░░░░░░░ 45%
+### 🛠️ Current Projects & Experience
+- 🔭 **Working on:** Advanced MERN Stack projects at **SMIT**.
+- 🏫 **Mentoring:** Teaching English & IT at my academy, **Future Stars**.
+- 🎥 **Creating:** AI-related content for **AI se Baatein**.
+
+---
+
+### 📬 Let's Work Together!
+Are you looking for a developer who understands your business? Let's chat!
+
+<div align="left">
+  <a href="https://wa.me/923102474634">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:yaseen.dev@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+---
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C6FF&height=100&section=footer" />
+</div>
