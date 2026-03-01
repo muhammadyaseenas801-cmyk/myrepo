@@ -1,67 +1,94 @@
-# <img src="https://media.giphy.com/media/hvRJCLzzXPPfszwXV8/giphy.gif" width="30px"> I'm Muhammad Khan (Yaseen)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0ff0fc&height=220&section=header&text=MUHAMMAD%20YASEEN&fontSize=80&animation=fadeIn&fontAlignY=38&desc=FRONTEND%20ARCHITECT%20|%20AI%20STRATEGIST&descAlignY=60&descSize=20" />
+</div>
 
-<p align="right">
-  <img src="https://avatars.githubusercontent.com/u/YOUR_GITHUB_USER_ID?v=4" width="180px" height="180px" style="border-radius: 50%; border: 4px solid #00C6FF; box-shadow: 0 0 20px #00C6FF;" alt="Muhammad Khan (Yaseen)" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&duration=3000&pause=1000&color=0ff0fc&center=true&vCenter=true&width=1000&lines=REACT+JS+EXPERT;WORDPRESS+MAESTRO;AI+AUTOMATION+ENGINEER;FOUNDER+OF+FUTURE+STARS+ACADEMY" />
 </p>
 
+<p align="center">
+<a href="https://wa.me/923102474634"><img src="https://img.shields.io/badge/Status-Available%20for%20Hire-00ff99?style=for-the-badge&logo=whatsapp" /></a>
+<a href="https://vercel.com/muhammadyaseenas801-cmyk"><img src="https://img.shields.io/badge/Deployments-Vercel%20Live-000000?style=for-the-badge&logo=vercel" /></a>
+</p>
+
+---
+
+### 🛰️ 01. THE CORE IDENTITY (About)
+Based in **Ghotki, Sindh**, I am a high-octane **Frontend Developer** and **WordPress Specialist**. I don't just build sites; I engineer digital ecosystems. From cloning elite institutional portals like **Sukkur IBA** to leading **Future Stars Academy**, my focus is on **Performance & Scale**.
+
+* 🚀 **Main Stack:** React JS (Architect Level) & WordPress (Customization Expert).
+* 🤖 **Next Tech:** Mastering **AI Automation** & **React Native**.
+* 🎓 **Education:** DIT & CIT Certified | Learning Modern Web @ **SMIT**.
+* 🎥 **Brand:** Creating tech content on **"AI se Baatein"** (YouTube).
+
+---
+
+### 🛠️ 02. SYSTEM CALIBRATION (Skills & Mastery)
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;WordPress+Specialist;Founder+of+Future+Stars+Academy;AI+Automation+Expert" alt="Typing SVG" />
+
+| CORE TECH | VISUAL BADGE | MASTERY BAR |
+| :--- | :--- | :--- |
+| **React JS** | <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> | ![90%](https://geps.dev/progress/90?dangerColor=0ff0fc&warningColor=0ff0fc&successColor=0ff0fc) |
+| **WordPress** | <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" /> | ![95%](https://geps.dev/progress/95?dangerColor=ff2d95&warningColor=ff2d95&successColor=ff2d95) |
+| **JavaScript** | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> | ![85%](https://geps.dev/progress/85?dangerColor=0ff0fc&warningColor=0ff0fc&successColor=0ff0fc) |
+| **AI Automation** | <img src="https://img.shields.io/badge/AI-Automation-8A2BE2?style=for-the-badge&logo=robot&logoColor=white" /> | ![75%](https://geps.dev/progress/75?dangerColor=8A2BE2&warningColor=8A2BE2&successColor=8A2BE2) |
+| **Bootstrap 5** | <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> | ![92%](https://geps.dev/progress/92?dangerColor=0ff0fc&warningColor=0ff0fc&successColor=0ff0fc) |
+
 </div>
 
 ---
 
-### 🚀 What I Bring to the Table
-I help businesses and individuals build **high-performance, SEO-friendly, and visually stunning** digital products. From Ghotki to the global market, I bridge the gap between ideas and reality.
+### 🌌 03. TOOLBOX GALAXY (Infinite Icons)
 
-- 🛠️ **Custom Web Apps:** Built with React & Modern CSS for speed and scalability.
-- 🌐 **WordPress Excellence:** Professional business sites and blogs with custom designs.
-- 🤖 **AI-Driven Solutions:** Integrating AI to automate tasks (Check out my channel: **AI se Baatein**).
-- 🎓 **Proven Leadership:** Founder of **Future Stars Academy**, managing teams and students.
-
----
-
-### 💻 Tech Stack
 <div align="center">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/WordPress-%2321759b.svg?style=for-the-badge&logo=WordPress&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap,wordpress,nodejs,mysql,git,github,vscode,vercel,netlify,py,figma,postman,npm,mongodb,bash,arduino&theme=dark" />
 </div>
 
 ---
 
-### 📈 Professional Snapshot
+### 🏆 04. PROJECTS HALL OF FAME
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180px" />
+
+| PROJECT | TECH STACK | LIVE LINK |
+| :--- | :--- | :---: |
+| **🚀 iCoder Hub** | React, Bootstrap 5 | [⚡ Vercel Live](#) |
+| **🎬 Netflix UI** | HTML, CSS, JS | [🌀 Netlify Live](#) |
+| **🎓 Sukkur IBA** | WordPress Expert | [🏛️ Hosted](#) |
+| **🏛️ Aror University**| WordPress / CSS | [🎓 Hosted](#) |
+
 </div>
 
 ---
 
-### 🛠️ Current Projects & Experience
-- 🔭 **Working on:** Advanced MERN Stack projects at **SMIT**.
-- 🏫 **Mentoring:** Teaching English & IT at my academy, **Future Stars**.
-- 🎥 **Creating:** AI-related content for **AI se Baatein**.
+### 📈 05. CORE ENGINE STATS
 
----
-
-### 📬 Let's Work Together!
-Are you looking for a developer who understands your business? Let's chat!
-
-<div align="left">
-  <a href="https://wa.me/923102474634">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:yaseen.dev@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadyaseenas801-cmyk&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20" height="185px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadyaseenas801-cmyk&layout=compact&theme=tokyonight&hide_border=true&border_radius=20" height="185px" />
 </div>
 
 ---
+
+### 📬 06. ESTABLISH UPLINK (Social Media)
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C6FF&height=100&section=footer" />
+  <a href="https://wa.me/923102474634"><img src="https://img.shields.io/badge/WhatsApp-Connect-25D366?style=for-the-badge&logo=whatsapp" /></a>
+  <a href="https://www.linkedin.com/in/muhammad-yaseen-0220363a7"><img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://www.facebook.com/profile.php?id=61587227819841"><img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook" /></a>
+  <a href="https://youtube.com/@AIseBaatein"><img src="https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube" /></a>
+</div>
+
+<div align="center" style="margin-top: 8px;">
+  <a href="https://vercel.com/muhammadyaseenas801-cmyk"><img src="https://img.shields.io/badge/Vercel-Portfolio-000000?style=for-the-badge&logo=vercel" /></a>
+  <a href="https://app.netlify.com/teams/muhammadyaseenas801-cmyk"><img src="https://img.shields.io/badge/Netlify-Team-00C7B7?style=for-the-badge&logo=netlify" /></a>
+  <a href="https://www.instagram.com/muhammad_yaseen_dev"><img src="https://img.shields.io/badge/Instagram-Feed-E4405F?style=for-the-badge&logo=instagram" /></a>
+  <a href="mailto:muhammadyaseenas801@gmail.com"><img src="https://img.shields.io/badge/Gmail-Inquiry-D14836?style=for-the-badge&logo=gmail" /></a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ff0fc&height=120&section=footer&text=ENGINEERING%20BEYOND%20LIMITS&fontSize=30" />
 </div>
